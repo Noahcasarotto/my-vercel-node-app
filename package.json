@@ -1,0 +1,17 @@
+{
+    "name": "my-vercel-node-app",
+    "version": "1.0.0",
+    "description": "Minimal Node.js API deployed on Vercel",
+    "type": "module",
+    "engines": {
+      "node": ">=18"
+    },
+    "scripts": {
+      "dev": "vercel dev",
+      "deploy": "vercel --prod"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {}
+  }
+  
